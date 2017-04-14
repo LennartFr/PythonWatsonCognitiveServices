@@ -25,7 +25,7 @@ The service will quickly be up and runing
 * Demo: https://tone-analyzer-demo.mybluemix.net/
 
 ## Code Example
-![alt text](https://flic.kr/p/TgvJC9 "Title Text 1")
+![alt text](https://c1.staticflickr.com/4/3936/33649744240_02238c084e_z.jpg "Title Text 1")
 
 
 
