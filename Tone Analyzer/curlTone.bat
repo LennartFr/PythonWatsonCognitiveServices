@@ -1,1 +1,0 @@
-curl -u "............":"..........." -H "Content-Type: application/json" -d "{\"text\": \"A word is dead when it is said, some say. Emily Dickinson\"}" "https://gateway.watsonplatform.net/tone-analyzer/api/v3/tone?version=2016-05-19"
