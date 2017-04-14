@@ -18,7 +18,7 @@ The service will quickly be up and runing
 
 ### The third step is to learn about the Watson Tone Analyzer service and its RESTful API.
 
-(https://www.ibm.com/watson/developercloud/doc/tone-analyzer/images/tone-analyzer.png)
+![alt text](https://www.ibm.com/watson/developercloud/doc/tone-analyzer/images/tone-analyzer.png "Title Text 1")
 
 * Overview of the Tone Analyzer service: https://www.ibm.com/watson/developercloud/doc/tone-analyzer/index.html
 * API https://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/#
