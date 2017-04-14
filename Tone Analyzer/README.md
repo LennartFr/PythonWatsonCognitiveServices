@@ -36,11 +36,17 @@ The username and password are private to you and should not be shared with other
 ## Code Example
 We are now ready to write our first client app.
 
-We typically start with a cURL script that allows us to quickly exercise the Tone Analyzer API:
+* We typically start with a cURL script that allows us to quickly exercise the Tone Analyzer API:
 For the cURL script to run, all we have to do is to insert the credentials we get from the Tone Analyzer API,
 as explained above, into the cURL script. Please note that the Userid and Password have been blanked out in the
 curlTone.bat file in this repo.
 https://github.com/LennartFr/PythonWatsonCognitiveServices/blob/master/Tone%20Analyzer/curlTone.bat
+
+* Having accessed the Tone Analyzer API with cURL we are now ready to move to Python. The app we will use is the 
+https://github.com/LennartFr/PythonWatsonCognitiveServices/blob/master/Tone%20Analyzer/ToneAnalyzer.py in this repo.
+Please note that it depends on the credentials module and the credentials module in its turn makes use of the credentials 
+we get from the Tone Analyzer service as we discussed. And all you have to do is to replace my blanked out credentials
+with your own. 
 
 
 
