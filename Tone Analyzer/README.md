@@ -24,13 +24,11 @@ The service will quickly be up and runing
 * API https://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/#
 * Demo: https://tone-analyzer-demo.mybluemix.net/
 
-
-
-
-
 ## Code Example
+![alt text](https://flic.kr/p/TgvJC9 "Title Text 1")
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+
+
 
 ## Motivation
 
