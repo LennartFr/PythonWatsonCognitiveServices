@@ -24,8 +24,16 @@ The service will quickly be up and runing
 * API https://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/#
 * Demo: https://tone-analyzer-demo.mybluemix.net/
 
-## Code Example
 ![alt text](https://c1.staticflickr.com/4/3936/33649744240_02238c084e_z.jpg "Title Text 1")
+The key information we need to be able to access the Watson Tone Analyzer is the Credentials we get when we launch the Tone Analyzer service. We find this information in the Bluemix Dashboard https://console.ng.bluemix.net/dashboard/apps/
+and the picture right above shows the Service Credentials Tabs and the Credentials-1 link we click on to get our credentials.
+Which consists of "url": "https://gateway.watsonplatform.net/tone-analyzer/api",
+  "username": "................",
+  "password": "......" 
+
+The username and password are private to you and should not be shared with others.
+
+## Code Example
 
 
 
