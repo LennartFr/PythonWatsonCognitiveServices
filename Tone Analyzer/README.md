@@ -4,10 +4,15 @@ This repo wraps a few Python apps around the Watson Tone Analyzer service on Blu
 
 The interface between Python and the Watson Tone Analyzer is the Python SDK https://github.com/watson-developer-cloud/python-sdk in the  Watson Developer Cloud: https://github.com/watson-developer-cloud 
 
+## The steps to create the Python apps
+
+### The first step is to sign up for the IBM Bluemix Cloud. 
+For that you need to go to https://bluemix.net.
+The process is quite simple, as shown in this video: https://www.youtube.com/watch?v=kUPwdfL8_oU
 
 
 
-https://www.ibm.com/watson/developercloud/tone-analyzer.html
+
 
 
 ## Code Example
