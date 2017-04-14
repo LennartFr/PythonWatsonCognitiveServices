@@ -10,6 +10,17 @@ The interface between Python and the Watson Tone Analyzer is the Python SDK http
 For that you need to go to https://bluemix.net.
 The process is quite simple, as shown in this video: https://www.youtube.com/watch?v=kUPwdfL8_oU
 
+### The second step is to launch the Watson Tone Analyzer service.
+It is hosted on the IBM Bluemix Cloud https://console.ng.bluemix.net/catalog/services/tone-analyzer
+Launching it is as simple as going to the Bluemix Catalog, search for the Tone Analyzer service and clicking on the Create Button on this link: https://console.ng.bluemix.net/catalog/services/tone-analyzer?taxonomyNavigation=apps
+
+The service will quickly be up and runing 
+
+### The third step is to learn about the Watson Tone Analyzer service and its RESTful API.
+
+Overview of the Tone Analyzer service: https://www.ibm.com/watson/developercloud/doc/tone-analyzer/index.html
+API https://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/#
+Demo: https://tone-analyzer-demo.mybluemix.net/
 
 
 
