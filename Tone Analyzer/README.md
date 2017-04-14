@@ -1,6 +1,14 @@
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+This repo wraps a few Python apps around the Watson Tone Analyzer service on Bluemix: https://www.ibm.com/watson/developercloud/tone-analyzer.html
+
+The interface between Python and the Watson Tone Analyzer is the Python SDK https://github.com/watson-developer-cloud/python-sdk in the  Watson Developer Cloud: https://github.com/watson-developer-cloud 
+
+
+
+
+https://www.ibm.com/watson/developercloud/tone-analyzer.html
+
 
 ## Code Example
 
