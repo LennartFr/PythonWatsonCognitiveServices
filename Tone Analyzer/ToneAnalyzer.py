@@ -1,11 +1,11 @@
-# 
-# https://bruceelgort.com/2016/06/07/using-ibm-watson-tone-analyzer-with-python/
+#########################################################################################################################
 #
 #
 # API End Point: https://gateway.watsonplatform.net/tone-analyzer/api/v3
 #
 #
-#
+# Lennart Frantzell 
+# 4/14/2017
 ##########################################################################################################################3
 
 import json
@@ -15,8 +15,8 @@ import credentials
 from credentials import tone_analyzer
 
 #		
-# The text input and formatted output functions 
-# Come from https://bruceelgort.com/2016/06/07/using-ibm-watson-tone-analyzer-with-python/		
+# The code for the input and formatted output functions Come from 
+# https://bruceelgort.com/2016/06/07/using-ibm-watson-tone-analyzer-with-python/		
 #
 
 def textinput():
@@ -28,6 +28,8 @@ def textinput():
         return inputtext
 		
 def formatedoutput(data):
+    print ("----------------------------------------------------------------------")
+    print("Output from the Watson Tone Analyzer Service running on IBM Bluemix: \n")
     for i in data['document_tone']['tone_categories']:
         print(i['category_name'])
         print("-" * len(i['category_name']))
