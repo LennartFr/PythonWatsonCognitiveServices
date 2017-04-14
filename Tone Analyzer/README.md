@@ -34,6 +34,17 @@ Which consists of "url": "https://gateway.watsonplatform.net/tone-analyzer/api",
 The username and password are private to you and should not be shared with others.
 
 ## Code Example
+We are now ready to write our first client app.
+
+We typically start with a cURL script that allows us to quickly exercise the Tone Analyzer API:
+For the cURL script to run, all we have to do is to insert the credentials we get from the Tone Analyzer API,
+as explained above, into the cURL script. Please note that the Userid and Password have been blanked out in the
+curlTone.bat file in this repo.
+https://github.com/LennartFr/PythonWatsonCognitiveServices/blob/master/Tone%20Analyzer/curlTone.bat
+
+
+
+
 
 
 
